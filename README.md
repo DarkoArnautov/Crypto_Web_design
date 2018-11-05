@@ -4,10 +4,10 @@
 [https://darkoarnautov.github.io/Crypto_Web_design/index](https://darkoarnautov.github.io/Crypto_Web_design/index)
 
 ### login page
-[https://darkoarnautov.github.io/Crypto_Web_design/login.html](https://darkoarnautov.github.io/Crypto_Web_design/login.html)
+[https://darkoarnautov.github.io/Crypto_Web_design/login](https://darkoarnautov.github.io/Crypto_Web_design/login)
 
 ### dashboard 
-[https://darkoarnautov.github.io/Crypto_Web_design/dashboard.html](https://darkoarnautov.github.io/Crypto_Web_design/dashboard.html)
+[https://darkoarnautov.github.io/Crypto_Web_design/dashboard](https://darkoarnautov.github.io/Crypto_Web_design/dashboard)
 
 ### register page
 [https://darkoarnautov.github.io/Crypto_Web_design/register](https://darkoarnautov.github.io/Crypto_Web_design/register)
